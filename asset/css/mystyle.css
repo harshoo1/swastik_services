@@ -1,0 +1,168 @@
+@font-face {
+    font-family: 'icomoon';
+    src: url("../fonts/icomoon/icomoon.eot?srf3rx");
+    src: url("../fonts/icomoon/icomoon.eot?srf3rx#iefix") format("embedded-opentype"), url("../fonts/icomoon/icomoon.ttf?srf3rx") format("truetype"), url("../fonts/icomoon/icomoon.woff?srf3rx") format("woff"), url("../fonts/icomoon/icomoon.svg?srf3rx#icomoon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Droid Sans';
+    font-size: 18px
+}
+
+.my_text_color {
+    color: #e11a30
+}
+
+.center-content {
+    text-align: center;
+    align-content: center
+}
+
+.navbar {
+    background: #fff;
+    color: #e11a30;
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, .15)
+}
+
+.my_padding {
+    margin: 10px
+}
+
+.my_toggle_color {
+    background-color: #e11a30
+}
+
+h1,
+h2 {
+    font-size: 38px;
+    font-weight: 100;
+    line-height: 50px;
+    margin-top: 10px
+}
+
+.section-container {
+    margin: 0 auto;
+    padding-bottom: 80px
+}
+
+.app-features {
+    padding-bottom: 30px
+}
+
+.section-description {
+    margin-top: 60px
+}
+
+h1,
+h2 {
+    color: #555;
+    font-size: 38px;
+    font-weight: 100;
+    line-height: 50px;
+    margin-top: 10px
+}
+
+h3 {
+    color: #555;
+    font-size: 22px;
+    font-weight: 300;
+    line-height: 30px
+}
+
+a,
+a:hover,
+a:focus,
+a:active,
+a.active {
+    outline: 0 none;
+    text-decoration: none
+}
+
+.divider-1 span {
+    background: #ddd none repeat scroll 0 0;
+    display: inline-block;
+    height: 1px;
+    width: 200px
+}
+
+.section-description p {
+    margin-top: 20px
+}
+
+.footer-new {
+    font-size: 18px;
+    color: #e11a30
+}
+
+.margin_down {
+    margin: 0 0 5 0
+}
+
+.margin_tops {
+    margin-top: 70px
+}
+
+.myfa {
+    padding: 15px;
+    font-size: 20px;
+    width: auto;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+    width: 46.72px
+}
+
+.fa-pinterest {
+    background: #cb2027;
+    color: white
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white
+}
+
+.fa-whatsapp {
+    background: #34af23;
+    color: white
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white
+}
+
+.fa-youtube {
+    background: #b00;
+    color: white
+}
+
+.fa-instagram {
+    background: #125688;
+    color: white
+}
+
+.my-margin-top {
+    margin-top: 30px
+}
+
+.navbar-inverse .navbar-nav>li>a:hover {
+    color: #e11a30
+}
+
+a {
+    color: #e11a30;
+    text-decoration: none
+}
+
+a:hover {
+    color: #e11a30
+}
